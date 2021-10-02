@@ -4,7 +4,7 @@ import os
 #Assign a variable to load a file from a path
 file_to_load = os.path.join("resources","election_results.csv")
 
-#create filename variable to direct or indirect path
+#create filename variable to direct or indirect path using os path
 file_to_save = os.path.join("analysis","election_analysis.txt")
 
 # Init total vote counter, winning candidate, wining count, and wining pecentage
