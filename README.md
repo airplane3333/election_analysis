@@ -1,6 +1,12 @@
-Overview of Election Audit: Explain the purpose of this election audit analysis.
+#Project Name: Using python to audit election Results
+---
+## Overview of Election Audit: 
+---
+Explain the process of audinting the election results
 
-Election-Audit Results: Using a bulleted list, address the following election outcomes. 
+## Election-Audit Results: 
+---
+Using a bulleted list, address the following election outcomes. 
 Use images or examples of your code as support where necessary.
 
 How many votes were cast in this congressional election?
