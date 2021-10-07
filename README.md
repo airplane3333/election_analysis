@@ -12,19 +12,23 @@ The audit of the three counties in Colorado provided the below results.
 The three counties are Arapahoe, Jefferson, and Denver counties
 
 The total number of votes counted during the audit was: 369,711 
+---
 ![Total Votes counted during audit](/resources/total_votes.PNG) 
 
 The three counties breakdown of the total votes and percentage of total votes.  Denver had the highest 
 number of votes with the total percentage of votes case at 82.78% 
-
+---
 ![Votes by county and percentage of total votes counted during audit](/resources/county_total_votes.PNG) 
+
 There are three candidates running for office in the congressional district of Colorado: 
 Charles Casper Stockham, Diana DeGetter, and Raymon Anthony Doane
 Diana DeGette received 272,892 votes and 73.8% of the total votes
+---
 ![Votes by candidate and percentage of votes counted during audit](/resources/candidate_votes.PNG) 
 
 The election audit determine that Diana DeGette won the election for the congressional district. 
-![Winning candidate for three counties congressional district from audit](/resources/winning_candidate.PNG) 
+---
+![Winning candidate for the congressional district](/resources/winning_candidate.PNG) 
 
 ##Election-Audit Summary: 
 The election audit process used python to only read in the election data.  The data 
